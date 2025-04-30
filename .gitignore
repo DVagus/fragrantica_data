@@ -1,0 +1,19 @@
+# Ignorar arquivos temporários do macOS
+.DS_Store
+
+
+#Ignorar arquivos específicos
+auto_sales_br.csv
+auto_sales_br.xlsx
+car_sales.csv
+vehicules_co2.csv
+fra_perfumes.csv
+
+# Ignorar arquivos de log
+*.log
+
+# Ignorar pastas específicas
+archive/
+
+# Ignorar arquivos de backup
+*~
